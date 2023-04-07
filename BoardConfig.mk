@@ -100,4 +100,4 @@ BOARD_AVB_RECOVERY_ROLLBACK_INDEX_LOCATION := 1
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
-include vendor/samsung/a03/BoardConfigVendor.mk
+include vendor/samsung/a03/a03-Vendor.mk
